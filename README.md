@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./oskar.svg" alt="Oskar" width="420">
+  <img src="./oskar.svg" alt="Oskar Pajka" width="300">
 </p>
 
 <p align="center">
@@ -21,9 +21,7 @@
 | Project | What it is |
 | --- | --- |
 | [**framecatch**](https://github.com/Common-Branch/framecatch) | Screenshot and screen recording tool for Windows, built with a friend in Electron, React and TypeScript. |
-| **Slotwise** | Booking web app: clients, services, appointments, calendar, SMS reminders. Built for a real salon. |
 | [**radiowezel**](https://github.com/vronadev/radiowezel) | Break music manager for my school's PA system and radio, built by a friend. I contribute to the codebase and am working on its front end. |
-| [**Common Branch**](https://github.com/Common-Branch) | Open source organization I run with a friend. |
 
 **Now:** learning Electron.
 
