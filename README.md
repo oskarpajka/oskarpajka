@@ -19,7 +19,8 @@
 ## Software
 
 | Project | What it is |
-| --- | --- |
+|---|---|
+| [**Slotwise**](https://github.com/oskarpajka/slotwise) ([demo](https://slotwise.oskar-pajka16.workers.dev/)) | Free, open-source booking and client manager for small businesses, without the bloat of paid tools. React, TypeScript, Hono and Cloudflare Workers with D1. In progress. |
 | [**framecatch**](https://github.com/Common-Branch/framecatch) | Screenshot and screen recording tool for Windows, built with a friend in Electron, React and TypeScript. |
 | [**radiowezel**](https://github.com/vronadev/radiowezel) | Break music manager for my school's PA system and radio, built by a friend. I contribute to the codebase and am working on its front end. |
 
